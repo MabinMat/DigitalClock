@@ -1,0 +1,4 @@
+module myClock(clk,hrsup,minsup,secsup)
+
+
+endmodule
